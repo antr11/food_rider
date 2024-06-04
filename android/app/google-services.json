@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "524153195970",
+    "project_id": "fooddeli-4074e",
+    "storage_bucket": "fooddeli-4074e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524153195970:android:490651c6552b590ee35a5b",
+        "android_client_info": {
+          "package_name": "com.DuckAn.food_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524153195970-pe0m07ed0tjtpdtjl1ltmli20egrlur2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjwt4vbRIizRgrtk7Hznn2GAEsLk8kJ98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524153195970-pe0m07ed0tjtpdtjl1ltmli20egrlur2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524153195970:android:dda129cbf20947fee35a5b",
+        "android_client_info": {
+          "package_name": "com.antr.seller_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524153195970-pe0m07ed0tjtpdtjl1ltmli20egrlur2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjwt4vbRIizRgrtk7Hznn2GAEsLk8kJ98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524153195970-pe0m07ed0tjtpdtjl1ltmli20egrlur2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
